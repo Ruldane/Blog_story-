@@ -12,7 +12,6 @@ class Modal  extends React.Component {
     }
 
     submitModal = () => {
-        alert("Submit modal");
         this.closeModal()
     };
 
